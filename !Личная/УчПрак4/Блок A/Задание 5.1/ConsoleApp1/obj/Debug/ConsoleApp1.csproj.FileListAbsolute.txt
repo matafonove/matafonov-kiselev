@@ -1,0 +1,14 @@
+W:\!Личная\УчПрак4\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+W:\!Личная\УчПрак4\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+W:\!Личная\УчПрак4\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+W:\!Личная\УчПрак4\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+W:\!Личная\УчПрак4\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+W:\!Личная\УчПрак4\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+W:\!Личная\УчПрак4\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+W:\!Личная\УчПрак4\Блок A\Задание 5.1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+W:\!Личная\УчПрак4\Блок A\Задание 5.1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+W:\!Личная\УчПрак4\Блок A\Задание 5.1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+W:\!Личная\УчПрак4\Блок A\Задание 5.1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+W:\!Личная\УчПрак4\Блок A\Задание 5.1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+W:\!Личная\УчПрак4\Блок A\Задание 5.1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+W:\!Личная\УчПрак4\Блок A\Задание 5.1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
